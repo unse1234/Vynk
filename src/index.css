@@ -169,9 +169,9 @@
       format('truetype');
 }
 
-/* body {
+body {
   font-family: 'Satoshi-Regular', sans-serif;
-} */
+}
 
 .logo {
   font-family: 'Clash-Display-Bold', sans-serif;
