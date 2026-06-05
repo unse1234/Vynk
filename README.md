@@ -1,8 +1,18 @@
-# React + Vite
+# Vynk 🎯
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack Instagram-inspired social media platform built with modern React ecosystem.
 
-Currently, two official plugins are available:
+## Tech Stack
+- **Frontend:** React 19, TypeScript, Tailwind CSS, Framer Motion
+- **State:** Redux Toolkit, Zustand, TanStack Query
+- **Backend:** Node.js, Express, MongoDB
+- **Tooling:** Vite, Prettier, ESLint
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- User authentication
+- Post creation & feed
+- Animated UI with Framer Motion
+- Responsive design
+
+## Status
+🚧 In active development
